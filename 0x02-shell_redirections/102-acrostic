@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cat -c | tr -d "\n")
+echo $(cut -b | tr -d '\n')
