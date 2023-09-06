@@ -1,7 +1,7 @@
 # Shell, permissions
 
 
-The projects listed down bellow are scripts done during **Software Engineering** with **ALX Africa**. 
+The files listed down bellow are scripts done during **Software Engineering** with **ALX Africa**. 
 
 They aim to learn how to use the `chmod`, `sudo`, `su`, `chown`, `chgrp` , `id` , `groups` , `whoami` , `adduser` and `addgroup` commands to represent and change Linux file permissions and change users in the Shell.
 
@@ -10,7 +10,6 @@ They aim to learn how to use the `chmod`, `sudo`, `su`, `chown`, `chgrp` , `id` 
 * Tested on 20.04 LTS
 
 ## Files
-All of the following files are scripts:
 
 | Filename | Description |
 | -------- | ----------- |
