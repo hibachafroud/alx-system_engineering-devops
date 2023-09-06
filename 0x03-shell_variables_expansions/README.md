@@ -2,7 +2,7 @@
 
 
 The files listed down bellow are scripts done during **Software Engineering** course with **ALX Africa**. 
-`
+
 They aim to learn about initialization files, local, global, and reserved variables, and special parameters in the Shell, and the use of the commands `printenv`, `set`, `export` and `alias` .Also, to practice mathematical operations such as division, subtraction, expansions, and addition, applied to environment variables known as global variables and utilizing aliases.
 
 ## Technologies
