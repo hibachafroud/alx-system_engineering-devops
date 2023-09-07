@@ -7,7 +7,7 @@ They aim to learn how to navigate directories using `cd`, `pwd`, and `ls` ; how 
 
 ## Technologies
 * Scripts written in Bash
-* Tested on 20.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 
