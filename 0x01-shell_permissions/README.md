@@ -7,7 +7,7 @@ They aim to learn how to use the `chmod`, `sudo`, `su`, `chown`, `chgrp` , `id` 
 
 ## Technologies
 * Scripts written in Bash
-* Tested on 20.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 
