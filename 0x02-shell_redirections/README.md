@@ -7,7 +7,7 @@ They aim to learn how to use `head`, `tail`, `find`, `wc`, `sort` , `uniq`, `gre
 
 ## Technologies
 * Scripts written in Bash
-* Tested on 20.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 
